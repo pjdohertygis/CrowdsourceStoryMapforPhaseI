@@ -30,5 +30,8 @@ https://docs.google.com/document/d/1tWOZWwY3RNzxOLvpS6p2nSqyvbfbumIiPNwVKsaKB8w/
 
 This is very rough, drafted up during the heat of battle in Harvey.
 
+# Resources
+https://developers.arcgis.com/
+
 
 
