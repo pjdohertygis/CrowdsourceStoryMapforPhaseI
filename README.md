@@ -1,7 +1,7 @@
 # CrowdsourceStoryMapforPhaseI
 This is a repository - but I am not a developer so would like to document what we have done and allow others to contribute ideas or even code. 
 
-http://storymaps.arcgis.com/assets/images/images/smotm_oct2017.jpg
+![Example](http://storymaps.arcgis.com/assets/images/images/smotm_oct2017.jpg)
 
 
 # Audience
