@@ -16,6 +16,7 @@ Maria - https://www.arcgis.com/apps/StoryMapCrowdsource/index.html?appid=78b819d
 
 # Open Data
 Irma - https://respond-irma-geoplatform.opendata.arcgis.com/datasets/8b6001ad0e884abba47fbf5ed3473c9b_0
+Maria - http://napsg.maps.arcgis.com/home/item.html?id=8736c5e909274d6fa636d211e4c81d43
 
 # Challenge
 
