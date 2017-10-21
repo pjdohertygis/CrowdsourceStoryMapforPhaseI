@@ -23,3 +23,12 @@ Irma - https://respond-irma-geoplatform.opendata.arcgis.com/datasets/8b6001ad0e8
 2) App does not provide configuration for adding focused questions "What is the photo?" 
 *This is something that is very possible through ArcGIS Online (see Survey123) but the app itself does not come with it.*
 3) Keeping the development of code close enough to the original so it still is easy to use. 
+4) Finding the data on social media is exhaustive and none (<5%) of it is geotagged, how can we enable those with geospatial skills to more easily harvest the photos. This can be using newly developed tools or just better workflow.
+
+# SOP for Social Media
+https://docs.google.com/document/d/1tWOZWwY3RNzxOLvpS6p2nSqyvbfbumIiPNwVKsaKB8w/view 
+
+This is very rough, drafted up during the heat of battle in Harvey.
+
+
+
